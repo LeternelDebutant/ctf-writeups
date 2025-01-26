@@ -16,4 +16,4 @@ Can you outsmart the system and reveal the flag?
 **Challenge points** : 50
 
 **Challenge ressources** :
-- Zip file containing the source code of the application [ben10.zip](srdnlenctf2025-ben10/chall/ben10.zip)
+- Zip file containing the source code of the application [ben10.zip](srdnlenctf2025-ben10/chall/)
