@@ -14,7 +14,7 @@ Can you outsmart the system and reveal the flag?
 
 **Challenge category** : web
 
-**Challenge points at the end of the CTF** : 50
+**Challenge points at the end of the CTF** : 50 points
 
 **Challenge resources** :
 - Zip file containing the source code of the application [ben10.zip](chall/ben10.zip)
