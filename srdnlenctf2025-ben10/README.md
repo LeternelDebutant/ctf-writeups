@@ -1,6 +1,7 @@
 # Srdnlen CTF 2025 - Ben 10
 
 **CTFtime link** : [srdnlen CTF 2025](https://ctftime.org/event/2576)
+
 **CTF Date** : 18-19 january 2025
 
 **Challenge name** : Ben 10
@@ -15,5 +16,5 @@ Can you outsmart the system and reveal the flag?
 
 **Challenge points** : 50
 
-**Challenge ressources** :
+**Challenge resources** :
 - Zip file containing the source code of the application [ben10.zip](chall/ben10.zip)
